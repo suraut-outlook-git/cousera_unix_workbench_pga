@@ -1,5 +1,5 @@
 Title of the project: __Peer-graded Assignment: Bash, Make, Git, and GitHub__
-Date make ran at:
-Sun Jan 22 14:27:07 IST 2023
-Number of lines file guessinggame.sh contains:
+\nDate make ran at:
+Sun Jan 22 15:41:41 IST 2023
+\nNumber of lines file guessinggame.sh contains:
 29
